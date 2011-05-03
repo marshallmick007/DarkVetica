@@ -1,0 +1,14 @@
+Project 1:
+	- Feature 23
+	- Finish documentation 
+	- Fix the bug in setup 
+	- Find out about deploying changes @ask
+	- Technical design meeting  @done(2011-05-03)
+		- Send meeting notes
+		- Follow up on late breaking bugs @prio(1)
+		- Schedule next meeting @due(2011-05-11)
+	Sub Project:
+		- Migrate the servers
+Project 2:
+	- Schedule kickoff meeting
+	- Prepare presentation
